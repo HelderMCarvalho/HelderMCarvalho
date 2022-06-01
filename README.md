@@ -9,15 +9,13 @@ remember right now 😉.
 
 ### 🌐 You can check me out on:
 
-<a href="https://www.linkedin.com/in/heldermcarvalho/">
-    <img src="./imgs/linkedin.svg" alt="linkedin" width="25" height="25"/>
-</a>
+[<img src="./imgs/linkedin.svg" alt="linkedin" width="25" height="25"/>][linkedin]
 
 ### 🛠 I've worked with:
 
-[<img src="./imgs/html.svg" alt="html" width="25" height="25"/>]()
-[<img src="./imgs/css3.svg" alt="css3" width="25" height="25"/>]()
-[<img src="./imgs/javascript.svg" alt="javascript" width="25" height="25"/>]()
+[<img src="./imgs/html.svg" alt="html" width="25" height="25"/>][github]
+[<img src="./imgs/css3.svg" alt="css3" width="25" height="25"/>][github]
+[<img src="./imgs/javascript.svg" alt="javascript" width="25" height="25"/>][github]
 [<img src="./imgs/typescript.svg" alt="typescript" width="25" height="25"/>](https://www.typescriptlang.org/)
 [<img src="./imgs/nodejs.svg" alt="nodejs" width="25" height="25"/>](https://nodejs.org/en/)
 [<img src="./imgs/angular.svg" alt="angular" width="25" height="25"/>](https://angular.io/)
@@ -26,8 +24,8 @@ remember right now 😉.
 [<img src="./imgs/nextjs-dark.svg" alt="nextjs" width="25" height="25"/>](https://nextjs.org/#gh-light-mode-only)
 [<img src="./imgs/php.svg" alt="php" width="25" height="25"/>](https://www.php.net/)
 [<img src="./imgs/laravel.svg" alt="laravel" width="25" height="25"/>](https://laravel.com/)
-[<img src="./imgs/c.svg" alt="c" width="25" height="25"/>]()
-[<img src="./imgs/csharp2.svg" alt="csharp" width="25" height="25"/>]()
+[<img src="./imgs/c.svg" alt="c" width="25" height="25"/>][github]
+[<img src="./imgs/csharp2.svg" alt="csharp" width="25" height="25"/>][github]
 [<img src="./imgs/mysql.svg" alt="mysql" width="25" height="25"/>](https://www.mysql.com/)
 [<img src="./imgs/postgresql.svg" alt="postgresql" width="25" height="25"/>](https://www.postgresql.org/)
 [<img src="./imgs/git.svg" alt="git" width="25" height="25"/>](https://git-scm.com/)
@@ -38,4 +36,6 @@ remember right now 😉.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HelderMCarvalho&theme=github_dark&layout=compact&custom_title=My%20GitHub%20code&exclude_repo=Video-Processing&langs_count=10)
 
-[linkedin]: https://www.linkedin.com/in/heldermcarvalho/
+[github]: https://github.com/HelderMCarvalho
+
+[linkedin]: https://www.linkedin.com/in/heldermcarvalho
