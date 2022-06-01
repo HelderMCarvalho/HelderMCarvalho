@@ -33,10 +33,8 @@ remember right now 😉.
 [<img src="./imgs/webstorm.svg" alt="webstorm" width="25" height="25"/>](https://www.jetbrains.com/webstorm/)
 
 ![HelderMCarvalho GitHub Stats](https://github-readme-stats.vercel.app/api?username=HelderMCarvalho&custom_title=My%20GitHub%20stats&count_private=true&show_icons=true&theme=github_dark&hide=prs,issues,contribs#gh-dark-mode-only)
-![HelderMCarvalho GitHub Stats](https://github-readme-stats.vercel.app/api?username=HelderMCarvalho&custom_title=My%20GitHub%20stats&count_private=true&show_icons=true&theme=github_light&hide=prs,issues,contribs#gh-light-mode-only)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HelderMCarvalho&theme=github_dark&layout=compact&custom_title=My%20GitHub%20code&exclude_repo=Video-Processing&langs_count=10#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HelderMCarvalho&theme=github_light&layout=compact&custom_title=My%20GitHub%20code&exclude_repo=Video-Processing&langs_count=10#gh-light-mode-only)
 
 [github]: https://github.com/HelderMCarvalho
 
