@@ -1,4 +1,4 @@
-# Hi, I’m Helder Carvalho 👋
+# Hi, I’m Hélder Carvalho 👋
 
 Just finished my Degree in Computer Systems Engineering and seeking for a position as Web Developer.
 
