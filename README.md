@@ -1,6 +1,6 @@
 # Hi, I’m Helder Carvalho 👋
 
-I'm finishing my Bachelor in Computer Systems Engineering and looking for a role of Web Developer.
+Just finished my Degree in Computer Systems Engineering and seeking for a position as Web Developer.
 
 👀 I like to watch series and movies, play video games, go out with friends and certainly more things that I don't
 remember right now 😉.
