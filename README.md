@@ -1,6 +1,8 @@
 # Hi, I’m Hélder Carvalho 👋
 
-Just finished my Degree in Computer Systems Engineering and seeking for a position as Web Developer.
+I'm a fullstack developer at Critical Manufacturing, but mainly working on frontend.
+
+I have degrees in Computer Systems Engineering and Web Development and Multimedia.
 
 👀 I like to watch series and movies, play video games, go out with friends and certainly more things that I don't
 remember right now 😉.
